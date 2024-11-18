@@ -1,0 +1,15 @@
+<!doctype html>
+            <html>
+            <head>
+  <title> formulaire  </title>
+          </head>
+
+<form action=“action.php” method=“get“ name=“f1”>          </form>
+<label for="champ1">Départ:</label>  
+<input type="password" size="5" name="code_postal" maxlength="5"></br>
+</br>
+<textarea rows=10 cols=40>
+</textarea> </br>
+<input type="file" name="mer"/>
+<input type ="radio" name ="age value="moin15" id="moin15"/><label for="moins15"> Moin de 15 ans </label><br/> 
+<input type ="radio" name ="age value="medium 15-25" id="medium 15-25"/><label for="medium 15-25"> medium 15-25 </label><br/> 
